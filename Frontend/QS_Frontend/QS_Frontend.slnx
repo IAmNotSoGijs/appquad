@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QS_Frontend/qs_frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|c:\\users\\gebruiker\\source\\repos\\qs_frontend\\qs_frontend\\src\\views\\questionsview.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|solutionrelative:qs_frontend\\src\\views\\questionsview.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|c:\\users\\gebruiker\\source\\repos\\qs_frontend\\qs_frontend\\src\\services\\questionservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|solutionrelative:qs_frontend\\src\\services\\questionservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|c:\\users\\gebruiker\\source\\repos\\qs_frontend\\qs_frontend\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|solutionrelative:qs_frontend\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|c:\\users\\gebruiker\\source\\repos\\qs_frontend\\qs_frontend\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5BD2A78-9F08-D56F-95B0-1BB364110B25}|QS_Frontend\\qs_frontend.esproj|solutionrelative:qs_frontend\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\App.vue",
+              "RelativeDocumentMoniker": "qs_frontend\\src\\App.vue",
+              "ToolTip": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\App.vue",
+              "RelativeToolTip": "qs_frontend\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-10-24T12:09:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsView.vue",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\views\\QuestionsView.vue",
+              "RelativeDocumentMoniker": "qs_frontend\\src\\views\\QuestionsView.vue",
+              "ToolTip": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\views\\QuestionsView.vue",
+              "RelativeToolTip": "qs_frontend\\src\\views\\QuestionsView.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2026-10-24T12:08:56.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionService.js",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\services\\QuestionService.js",
+              "RelativeDocumentMoniker": "qs_frontend\\src\\services\\QuestionService.js",
+              "ToolTip": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\services\\QuestionService.js",
+              "RelativeToolTip": "qs_frontend\\src\\services\\QuestionService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-24T11:20:24.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "axios.js",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\api\\axios.js",
+              "RelativeDocumentMoniker": "qs_frontend\\src\\api\\axios.js",
+              "ToolTip": "C:\\Users\\Gebruiker\\source\\repos\\QS_Frontend\\qs_frontend\\src\\api\\axios.js",
+              "RelativeToolTip": "qs_frontend\\src\\api\\axios.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-24T11:19:27.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,6 @@
 Quad Solution - Trivia Questions Assignment
 
 Introduction
-Welcome, and thank you for taking a look into my project.
 Over the past 2 weeks, I have been working on an assignment provided by Quad Solutions. The objective of this assignment
 was to develop an simple to use app that retrieves questions and checks the user's answers after completing the quiz.
 
@@ -28,7 +27,7 @@ Requirements
 To run the application locally on your own PC, make sure you have the following installed:
 - Java JDK
 - Node.js and npm
-- An code editor (Visual Studio 2026 and Visual Studio Code is recommended)
+- A code editor (Visual Studio 2026 and Visual Studio Code is recommended)
 
 Installation and Setup
 First to start off with is to download or clone the repository to your local computer.
